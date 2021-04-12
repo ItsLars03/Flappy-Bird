@@ -9,3 +9,14 @@ C:\Users\Lars\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.
 C:\Users\Lars\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.exe
 C:\Users\Lars\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.pdb
 C:\Users\Lars\source\repos\Flappy Bird\Flappy Bird\obj\Debug\Flappy_Bird.gameover.resources
+C:\Users\Lars\source\repos\Flappy Bird\Backup\Flappy Bird\obj\Debug\Flappy Bird.csprojAssemblyReference.cache
+C:\Users\Lars\source\repos\Flappy Bird\Backup\Flappy Bird\obj\Debug\Flappy_Bird.Form1.resources
+C:\Users\Lars\source\repos\Flappy Bird\Backup\Flappy Bird\obj\Debug\Flappy_Bird.gameover.resources
+C:\Users\Lars\source\repos\Flappy Bird\Backup\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\Lars\source\repos\Flappy Bird\Backup\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+C:\Users\Lars\source\repos\Flappy Bird\Backup\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\Lars\source\repos\Flappy Bird\Backup\Flappy Bird\obj\Debug\Flappy Bird.exe
+C:\Users\Lars\source\repos\Flappy Bird\Backup\Flappy Bird\obj\Debug\Flappy Bird.pdb
+C:\Users\Lars\source\repos\Flappy Bird\Backup\Flappy Bird\bin\Debug\Flappy Bird.exe.config
+C:\Users\Lars\source\repos\Flappy Bird\Backup\Flappy Bird\bin\Debug\Flappy Bird.exe
+C:\Users\Lars\source\repos\Flappy Bird\Backup\Flappy Bird\bin\Debug\Flappy Bird.pdb

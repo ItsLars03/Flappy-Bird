@@ -116,5 +116,47 @@
   <ItemGroup>
     <None Include="Resources\ground1.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Flappy-Bird-Pixel-Art-PNG-Pic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\title.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\javascript-flappybird-stap1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\javascript-flappybird-stap11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Knipsel.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game over.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\javascript-flappybird-stap12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\title1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Knipsel1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\res.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ac639320ba7c43c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ffff.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
